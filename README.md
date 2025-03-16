@@ -21,10 +21,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth1211&layout=compact&theme=radical)
 
 ## Featured Projects
-<a href="https://github.com/yourusername/project1">
+<a href="https://github.com/vinoth1211/Edusity.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinoth1211&repo=Edusity&theme=radical" />
 </a>
-<a href="https://github.com/yourusername/project2">
+<a href="https://github.com/vinoth1211/My-Portfolio.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinoth1211&repo=My-Portfolio&theme=radical" />
 </a>
 
