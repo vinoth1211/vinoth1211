@@ -11,7 +11,6 @@
 ## 📚 About Me
 
 - 🎓 Studying Computing and Information Systems at <a href="https://www.sab.ac.lk/">SUSL</a>
-- 🌱 Currently learning **ReactJS** and improving my frontend skills
 - 🤝 Open to collaboration in web, mobile, or AI projects
 - ✨ Always excited to learn new technologies, solve real-world problems, and contribute to open-source
 - 😄 Pronouns: He/Him
@@ -82,7 +81,8 @@
 
 ## 👁️ Visitor Counter
 
-<p align="center"> 
+
+<p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vinoth1211/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=vinoth1211&style=flat-square" alt="Profile Views" />
 </p>
